@@ -1,9 +1,9 @@
-markdown
-
 # Currency Geopolitical Analyzer
-
 ## Description
 A sophisticated Python-based tool that analyzes the relationship between geopolitical events and currency market movements. This project helps traders and analysts understand how global political events impact currency valuations and market sentiment.
+
+## Example
+![Example Output](https://github.com/YoussefBechara/Currency-Geopolical-Analyser/blob/main/EXAMPLE%20TABLES.png?raw=true)
 
 ## Features
 - Scrapes and processes geopolitical news data
